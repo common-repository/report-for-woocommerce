@@ -1,0 +1,33 @@
+/* CSS Document */
+.woo_report_container {padding:10px;}
+.woo_report_search_form { background-color: #e6EEEE; border:1px solid #CDCDCD; padding:5px;}
+.woo_report_text_align_right { text-align:right;} 
+.woo_report_input_type_text {
+    width: 100%;
+    padding: 4px 12px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+.woo_report_select_option { 
+	border:1px solid #CDCDCD;   
+	width: 100%;
+    padding: 4px 12px;
+    margin: 8px 0;  } 
+	
+.woo_report_submit_button{
+	background-color: #808080;
+    border: none;
+    color: white;
+    padding: 5px 23px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	border-radius: 12px;
+	 cursor:pointer;
+}
+.woo_report_submit_button:hover {
+	  background-color: #1a1a1a;
+   color: #FFF;
+    cursor:pointer;
+}
